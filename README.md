@@ -1,16 +1,64 @@
-# React + Vite
+# Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website built using React and Vite.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This portfolio showcases:
 
-## React Compiler
+* My projects
+* Skills
+* About me
+* Contact information
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+* React
+* Vite
+* JavaScript
+* CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+* Responsive design
+* Modern UI
+* Fast performance
+* Smooth navigation
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/portfolio.git
+```
+
+Go to the project folder:
+
+```bash
+cd portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npm run dev
+```
+
+## Live Demo
+
+Add your deployed website link here.
+
+## Author
+
+Sai Manikanta
+
+## License
+
+This project is open source and available under the MIT License.
