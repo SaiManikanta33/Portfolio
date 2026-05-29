@@ -1,5 +1,5 @@
 import "./About.css";
-import Profile from "../assets/Profile.png";
+import Profile from "../Assets/Profile.png";
 
 function About() {
   return (
