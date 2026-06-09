@@ -2,12 +2,12 @@ const projects = [
 
   {
     id: 1,
-    title: "Password Strength Checker",
+    title: "Personal Portfolio Website",
     description:
-      "Checks password security level using JavaScript.",
-    tech: "HTML CSS JavaScript",
-    github: "#",
-    demo: "#",
+      "A responsive portfolio website showcasing my projects and skills.",
+    tech: "React , JavaScript , CSS , HTML",
+    github: "https://github.com/SaiManikanta33/Portfolio",
+    demo: "https://saimanikanta33.github.io/Portfolio/",
   },
 
   {
@@ -25,7 +25,7 @@ const projects = [
     title: "Cyber Security Portfolio",
     description:
       "Personal responsive portfolio website using React.",
-    tech: "React CSS",
+    tech: "React , JavaScript , CSS , HTML",
     github: "#",
     demo: "#",
   },

@@ -1,5 +1,5 @@
 import "./Projects.css";
-import projects from "../data/Projects";
+import projects from "../data/projects";
 
 function Projects() {
   return (
