@@ -1,9 +1,11 @@
+import homepageImg from "../assets/Homepage.png";
+
 const projects = [
 
   {
     id: 1,
     title: "Personal Portfolio Website",
-    image: "",
+    image: homepageImg,
     description:
       "A responsive portfolio website showcasing my projects and skills.",
     tech: "React , JavaScript , CSS , HTML",
