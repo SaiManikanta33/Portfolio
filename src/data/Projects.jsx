@@ -1,6 +1,6 @@
 import homepageImg from "../assets/Homepage.png";
 
-const projects = [
+export const projects = [
 
   {
     id: 1,
