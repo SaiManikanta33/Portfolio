@@ -1,4 +1,4 @@
-import homepageImg from "../assets/Homepage.png";
+import homepageImg from "../Assets/Homepage.png";
 
 export const projects = [
 
