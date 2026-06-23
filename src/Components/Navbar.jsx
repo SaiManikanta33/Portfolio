@@ -41,7 +41,7 @@ function Navbar() {
           </li>
 
           <li>
-            <a href="#contact" onClick={() => setMenu(trueS)}>
+            <a href="#contact" onClick={() => setMenu(true)}>
               Contact
             </a>
           </li>
