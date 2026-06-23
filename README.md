@@ -87,13 +87,13 @@ public/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/cyber-portfolio.git
+git clone https://github.com/SaiManikanta33/Portfolio
 ```
 
 Navigate to the folder:
 
 ```bash
-cd cyber-portfolio
+cd Portfolio
 ```
 
 Install dependencies:
@@ -126,7 +126,7 @@ https://yourproject.vercel.app
 
 ## 📸 Screenshots
 
-![Homepage](./public/screenshot.png)
+![Homepage](./public/Homepage.png)
 
 ---
 
@@ -166,15 +166,15 @@ Hi, I'm **Sai Manikanta** 👋
 
 ### GitHub
 
-https://github.com/yourusername
+https://github.com/SaiManikanta33
 
 ### LinkedIn
 
-https://linkedin.com/in/yourprofile
+https://linkedin.com/in/saimanikanta33
 
 ### Instagram
 
-https://instagram.com/yourusername
+https://instagram.com/_spideyyy_19
 
 ---
 
