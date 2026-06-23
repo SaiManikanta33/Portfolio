@@ -12,6 +12,7 @@ function Skills() {
     "Cyber Security",
     "HTML",
     "CSS",
+    "Git",
     "GitHub"
   ];
 
